@@ -1,1 +1,2 @@
-# reddappa-python-daily-practice
+# Python Daily practice contents
+## Day - 1:
